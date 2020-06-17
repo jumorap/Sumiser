@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "785445534114",
+    "firebase_url": "https://sumiser-30abf.firebaseio.com",
+    "project_id": "sumiser-30abf",
+    "storage_bucket": "sumiser-30abf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785445534114:android:cd8ae92227b06438689afb",
+        "android_client_info": {
+          "package_name": "com.sumiser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785445534114-cqub579uf5cf9sq99blkbi7tjligm9j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sumiser",
+            "certificate_hash": "f34937fa85115a89d8e33f118acffd9a747b0c0d"
+          }
+        },
+        {
+          "client_id": "785445534114-5tho9rem04g7e5u1mg38gb70l5i20ksl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeryfMJSziS9a1HQ-fqEKGrbm7dA5VfsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785445534114-5tho9rem04g7e5u1mg38gb70l5i20ksl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785445534114-6hgqt8fgaa49mnmpi2k1tlv9gmo33sbi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sumiser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
